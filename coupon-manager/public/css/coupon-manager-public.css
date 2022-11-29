@@ -1,0 +1,17 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.copy_text_btn_sm{
+		padding: 10px 15px;
+    	border-radius: 2px;
+	}
+	.copy_text_btn_md{
+		padding: 10px 25px;
+    	border-radius: 2px;
+	}
+	.copy_text_btn_lg{
+		padding: 10px 40px;
+    	border-radius: 2px;
+	}
